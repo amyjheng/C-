@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\bin\Debug\陣列Arr2.exe.config
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\bin\Debug\陣列Arr2.exe
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\bin\Debug\陣列Arr2.pdb
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.Form1.resources
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.Properties.Resources.resources
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.exe
+C:\Users\User\Desktop\14鄭芸函\陣列Arr2\陣列Arr2\obj\Debug\陣列Arr2.pdb

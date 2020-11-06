@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.csprojAssemblyReference.cache
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.Form1.resources
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.Properties.Resources.resources
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.csproj.GenerateResource.cache
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\bin\Debug\screensaver螢幕保護程式.exe.config
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\bin\Debug\screensaver螢幕保護程式.exe
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\bin\Debug\screensaver螢幕保護程式.pdb
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.exe
+C:\Users\User\Desktop\作業\screensaver螢幕保護程式\screensaver螢幕保護程式\obj\Debug\screensaver螢幕保護程式.pdb

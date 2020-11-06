@@ -1,0 +1,10 @@
+C:\Shared\Csharp\0806xogame\0806xogame\bin\Debug\0806xogame.exe.config
+C:\Shared\Csharp\0806xogame\0806xogame\bin\Debug\0806xogame.exe
+C:\Shared\Csharp\0806xogame\0806xogame\bin\Debug\0806xogame.pdb
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\0806xogame.csprojAssemblyReference.cache
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\_0806xogame.Form1.resources
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\_0806xogame.Properties.Resources.resources
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\0806xogame.csproj.GenerateResource.cache
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\0806xogame.csproj.CoreCompileInputs.cache
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\0806xogame.exe
+C:\Shared\Csharp\0806xogame\0806xogame\obj\Debug\0806xogame.pdb
