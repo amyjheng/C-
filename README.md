@@ -1,11 +1,12 @@
 # C-
 assignment 
 
-¦¨ÁZ±Æ§Ç
-¾x¹aµe­±°{Ã{´£¿ô
-¤«¦r¹CÀ¸
-¥[´î­¼°£
-¿Ã¹õ«OÅ@µ{¦¡
-¶U´Ú¸Õºâ
-Â²©öPOS¾÷
-¤j¼Ö³zÀH¾÷...µ¥
+æˆç¸¾æŽ’åº
+é¬§éˆ´ç•«é¢é–ƒçˆæé†’
+äº•å­—éŠæˆ²
+åŠ æ¸›ä¹˜é™¤
+èž¢å¹•ä¿è­·ç¨‹å¼
+è²¸æ¬¾è©¦ç®—
+ç°¡æ˜“POSæ©Ÿ
+å¤§æ¨‚é€éš¨æ©Ÿ...ç­‰
+![image](picture or gif url)
